@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oozaquaeph.supermassiveblackhol.es/sitemap.xml
